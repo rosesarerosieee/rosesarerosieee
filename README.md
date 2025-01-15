@@ -4,7 +4,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosesarerosieee&label=Profile%20views&color=0e75b6&style=flat" alt="rosesarerosieee" /> </p>
 
-- 📫 How to reach me **perezrose0211@gmail.com**
+- 📫 How to reach me **eritian02@gmail.com**
 
 - ⚡ Fun fact **I like Pink (Light Pink is my fave color. LOL.)**
 
