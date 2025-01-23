@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristian Perez</h1>
 <h3 align="center">An aspiring software developer from the Philippines.</h3>
-<h3 align="center">Visit my <a href="https://rose-dev-portfolio.netlify.app/" target="_blank">portfolio</a>
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosesarerosieee&label=Profile%20views&color=0e75b6&style=flat" alt="rosesarerosieee" /> </p>
 
 - 📫 How to reach me **eritian02@gmail.com**
